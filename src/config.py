@@ -25,5 +25,6 @@ EXCLUDE_LINKS_START = [
 ]
 
 CHROMEDRIVER_PATH = "./chromedriver"
+GECKODRIVER_PATH = r"C:\Users\Negin Rayaneh\Desktop\ResumeRover\geckodriver.exe"  # Use raw string
 HEADLESS_MODE = True
 # SAVE_FILE_PATH = input("what is your file name to save: ")
